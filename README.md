@@ -19,6 +19,13 @@ Me chamo João Vitor Gonçalves Pereira, tenho 20 anos e sou natural de Itatiba,
             src="https://custom-icon-badges.demolab.com/github/followers/GeJo28?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+    <a href="https://www.instagram.com/goncalvespereirajoaovitor/" target="_blank">
+        <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+    </a>
+    <a href = "mailto:joaovitor.dftei@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/joaovitorgoncalvespereira/" target="_blank">
+        <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
 </p>
 
 ---
