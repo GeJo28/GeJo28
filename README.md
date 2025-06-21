@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo João Vitor Gonçalves Pereira, tenho 20 anos e sou natural de Itatiba, uma cidade do interior de São Paulo. Concluí o meu ensio médio na E.E.Vila do Lago. Atualmente estou cursando a faculdade de Análise e Desenvolvimento de Sistemas, e tenho e estou gostando muito desta área. Aprendi muitas tecnologias front-end como HTML, CSS, banco de dados SQL e NoSQL e estou aprendendo a linguagem de programação Javascript. Fiz um curso profissionalizante da linguagem de programação Python, onde aprendi desenvolvimento web com o framework Flask, análise de dados com as bibliotecas pandas, numpy, desenvolver gráficos com a biblioteca Matplotlib e muito mais com essa poderosa linguagem.
+Me chamo João Vitor Gonçalves Pereira, tenho 20 anos e sou natural de Itatiba, uma cidade do interior de São Paulo. Concluí o meu ensio médio na E.E.Vila do Lago. Atualmente, graças a Deus, estou cursando a faculdade de Análise e Desenvolvimento de Sistemas, e tenho e estou gostando muito desta área. Aprendi muitas tecnologias front-end como HTML, CSS, banco de dados SQL e NoSQL e estou aprendendo a linguagem de programação Javascript.E graças a Deus, fiz um curso profissionalizante da linguagem de programação Python, onde aprendi desenvolvimento web com o framework Flask, análise de dados com as bibliotecas pandas, numpy, desenvolver gráficos com a biblioteca Matplotlib e muito mais com essa poderosa linguagem.
 
 <p align="left">
     <a href="https://github.com/GeJo28?tab=repositories&sort=stargazers">
